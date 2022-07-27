@@ -6,12 +6,13 @@ body {
   color: #3D3D3D;
 }
 
-h1 {
+.titulo {
   padding: 10px;
+  font-size: 32px;
   background-color: #E1EDF2;
 }
 
-h2 {
+.subtitulo {
   border-bottom: 2px solid black;
 }
 
