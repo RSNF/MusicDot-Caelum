@@ -1,5 +1,8 @@
 .cabecalho {
-  background-color: #2D5377;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  box-sizing: border-box;
   color: #fff;
   text-align: center;
   font-size: 0.6rem;
