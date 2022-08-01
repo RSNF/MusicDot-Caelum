@@ -54,7 +54,7 @@
   margin: 8px 0;
 }
 
-.planos__card p p {
+.planos__card p + p {
   font-weight: 300;
   margin-top: .2rem;
   letter-spacing: 1.5px;
@@ -107,8 +107,8 @@
   z-index: 1;
 }
 
-.card--anual p p,
-.card--semestral p p {
+.card--anual p + p,
+.card--semestral p + p {
   margin-bottom: 1rem;
 }
 
@@ -170,7 +170,7 @@
   }
 
   .plano__titulo,
-  .plano__titulo p {
+  .plano__titulo + p {
     font-size: 1.4rem;
     font-weight: 500;
   }

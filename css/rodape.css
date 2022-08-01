@@ -47,7 +47,7 @@
 }
 
 @media (max-width: 640px) {
-  .rodape__secao  .rodape__secao {
+  .rodape__secao + .rodape__secao {
     margin-top: 2em;
   }  
 }
@@ -110,7 +110,7 @@
     margin-top: 0;
   }
 
-  .rodape__secao  .rodape__secao {
+  .rodape__secao + .rodape__secao {
     margin-left: 2em;
   }
 }
